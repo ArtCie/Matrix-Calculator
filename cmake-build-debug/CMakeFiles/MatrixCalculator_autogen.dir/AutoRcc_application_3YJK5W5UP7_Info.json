@@ -1,0 +1,22 @@
+{
+	"BUILD_DIR" : "C:/Users/artur/Desktop/studia/Jezyki i paradygmaty programowania/Laby/MatrixCalculator/cmake-build-debug/MatrixCalculator_autogen",
+	"CMAKE_BINARY_DIR" : "C:/Users/artur/Desktop/studia/Jezyki i paradygmaty programowania/Laby/MatrixCalculator/cmake-build-debug",
+	"CMAKE_CURRENT_BINARY_DIR" : "C:/Users/artur/Desktop/studia/Jezyki i paradygmaty programowania/Laby/MatrixCalculator/cmake-build-debug",
+	"CMAKE_CURRENT_SOURCE_DIR" : "C:/Users/artur/Desktop/studia/Jezyki i paradygmaty programowania/Laby/MatrixCalculator",
+	"CMAKE_SOURCE_DIR" : "C:/Users/artur/Desktop/studia/Jezyki i paradygmaty programowania/Laby/MatrixCalculator",
+	"INCLUDE_DIR" : "C:/Users/artur/Desktop/studia/Jezyki i paradygmaty programowania/Laby/MatrixCalculator/cmake-build-debug/MatrixCalculator_autogen/include",
+	"INPUTS" : 
+	[
+		"C:/Users/artur/Desktop/studia/Jezyki i paradygmaty programowania/Laby/MatrixCalculator/resources/foto.ico"
+	],
+	"LOCK_FILE" : "C:/Users/artur/Desktop/studia/Jezyki i paradygmaty programowania/Laby/MatrixCalculator/cmake-build-debug/CMakeFiles/MatrixCalculator_autogen.dir/AutoRcc_application_3YJK5W5UP7_Lock.lock",
+	"MULTI_CONFIG" : false,
+	"OPTIONS" : [ "-name", "application" ],
+	"OUTPUT_CHECKSUM" : "3YJK5W5UP7",
+	"OUTPUT_NAME" : "qrc_application.cpp",
+	"RCC_EXECUTABLE" : "C:/Qt/5.15.2/mingw81_64/bin/rcc.exe",
+	"RCC_LIST_OPTIONS" : [ "--list" ],
+	"SETTINGS_FILE" : "C:/Users/artur/Desktop/studia/Jezyki i paradygmaty programowania/Laby/MatrixCalculator/cmake-build-debug/CMakeFiles/MatrixCalculator_autogen.dir/AutoRcc_application_3YJK5W5UP7_Used.txt",
+	"SOURCE" : "C:/Users/artur/Desktop/studia/Jezyki i paradygmaty programowania/Laby/MatrixCalculator/resources/application.qrc",
+	"VERBOSITY" : 0
+}

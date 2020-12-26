@@ -1,0 +1,62 @@
+Calibri
+Macierz A
+Macierz B
+Macierz C
+font-weight: bold
+0
+QLabel { background-color : white; color : gray; }
+Wypelnij losowo
+Dodaj kolumne
+Dodaj wiersz
+Usun kolumne
+Usun wiersz
+Dodaj stopień
+Usuń stopień
+Dodaj macierze
+Odejmij macierze
+Pomnoz macierze
+Pomnoz macierz
+przez liczbe
+A
+          B
+     C
+Proszę wybrać macierz na której 
+wykonywane będą operacje
+Transponuj macierz
+Oblicz wyznacznik
+Znajdz macierz
+dopełnień
+odwrotną
+Rozkład metoda
+LU
+Rozkład Choleskiego
+Czy macierz jest
+symetryczna?
+Błąd podania wartości do macierzy
+ 
+Macierz A+B
++
+=
+Błąd dodawania
+Macierz A-B
+-
+Błąd odejmowania
+Macierz A*B
+*
+Błąd mnożenia
+Nie udało się obliczyć wyznacznika
+Nie udało się wyznaczyć dopełnienia.
+Error
+Macierz jest osobliwa
+det(matrix)==0
+Nie udało się wyznaczyć macierzy
+odwrotnej
+Macierz wejściowa
+Macierz L
+Macierz U
+Nie udało się wyznaczyć rozkładu.
+TAK
+NIE
+T
+
+

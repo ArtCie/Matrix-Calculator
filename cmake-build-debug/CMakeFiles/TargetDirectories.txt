@@ -1,0 +1,4 @@
+C:/Users/artur/Desktop/studia/Jezyki i paradygmaty programowania/Laby/MatrixCalculator/cmake-build-debug/CMakeFiles/MatrixCalculator.dir
+C:/Users/artur/Desktop/studia/Jezyki i paradygmaty programowania/Laby/MatrixCalculator/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/artur/Desktop/studia/Jezyki i paradygmaty programowania/Laby/MatrixCalculator/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+C:/Users/artur/Desktop/studia/Jezyki i paradygmaty programowania/Laby/MatrixCalculator/cmake-build-debug/CMakeFiles/MatrixCalculator_autogen.dir

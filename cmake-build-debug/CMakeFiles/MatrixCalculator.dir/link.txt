@@ -1,0 +1,3 @@
+"C:\Program Files\JetBrains\CLion 2020.3\bin\cmake\win\bin\cmake.exe" -E rm -f CMakeFiles\MatrixCalculator.dir/objects.a
+C:\msys64\mingw64\bin\ar.exe cr CMakeFiles\MatrixCalculator.dir/objects.a @CMakeFiles\MatrixCalculator.dir\objects1.rsp
+C:\msys64\mingw64\bin\g++.exe -g   -Wl,--whole-archive CMakeFiles\MatrixCalculator.dir/objects.a -Wl,--no-whole-archive  -o MatrixCalculator.exe -Wl,--out-implib,libMatrixCalculator.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\MatrixCalculator.dir\linklibs.rsp
