@@ -62,10 +62,10 @@ RM = "C:\Program Files\JetBrains\CLion 2020.3\bin\cmake\win\bin\cmake.exe" -E rm
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = "C:\Users\artur\Desktop\studia\Jezyki i paradygmaty programowania\Laby\MatrixCalculator"
+CMAKE_SOURCE_DIR = "C:\Users\artur\Desktop\studia\Jezyki i paradygmaty programowania\Laby\ProjectMatrixCalc"
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = "C:\Users\artur\Desktop\studia\Jezyki i paradygmaty programowania\Laby\MatrixCalculator\cmake-build-debug"
+CMAKE_BINARY_DIR = "C:\Users\artur\Desktop\studia\Jezyki i paradygmaty programowania\Laby\ProjectMatrixCalc\cmake-build-debug"
 
 # Include any dependencies generated for this target.
 include CMakeFiles/MatrixCalculator.dir/depend.make
@@ -80,92 +80,92 @@ MatrixCalculator_autogen/3YJK5W5UP7/qrc_application.cpp: ../resources/applicatio
 MatrixCalculator_autogen/3YJK5W5UP7/qrc_application.cpp: CMakeFiles/MatrixCalculator_autogen.dir/AutoRcc_application_3YJK5W5UP7_Info.json
 MatrixCalculator_autogen/3YJK5W5UP7/qrc_application.cpp: ../resources/foto.ico
 MatrixCalculator_autogen/3YJK5W5UP7/qrc_application.cpp: C:/Qt/5.15.2/mingw81_64/bin/rcc.exe
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --blue --bold --progress-dir="C:\Users\artur\Desktop\studia\Jezyki i paradygmaty programowania\Laby\MatrixCalculator\cmake-build-debug\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_1) "Automatic RCC for resources/application.qrc"
-	"C:\Program Files\JetBrains\CLion 2020.3\bin\cmake\win\bin\cmake.exe" -E cmake_autorcc "C:/Users/artur/Desktop/studia/Jezyki i paradygmaty programowania/Laby/MatrixCalculator/cmake-build-debug/CMakeFiles/MatrixCalculator_autogen.dir/AutoRcc_application_3YJK5W5UP7_Info.json" Debug
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --blue --bold --progress-dir="C:\Users\artur\Desktop\studia\Jezyki i paradygmaty programowania\Laby\ProjectMatrixCalc\cmake-build-debug\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_1) "Automatic RCC for resources/application.qrc"
+	"C:\Program Files\JetBrains\CLion 2020.3\bin\cmake\win\bin\cmake.exe" -E cmake_autorcc "C:/Users/artur/Desktop/studia/Jezyki i paradygmaty programowania/Laby/ProjectMatrixCalc/cmake-build-debug/CMakeFiles/MatrixCalculator_autogen.dir/AutoRcc_application_3YJK5W5UP7_Info.json" Debug
 
 CMakeFiles/MatrixCalculator.dir/MatrixCalculator_autogen/mocs_compilation.cpp.obj: CMakeFiles/MatrixCalculator.dir/flags.make
 CMakeFiles/MatrixCalculator.dir/MatrixCalculator_autogen/mocs_compilation.cpp.obj: CMakeFiles/MatrixCalculator.dir/includes_CXX.rsp
 CMakeFiles/MatrixCalculator.dir/MatrixCalculator_autogen/mocs_compilation.cpp.obj: MatrixCalculator_autogen/mocs_compilation.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="C:\Users\artur\Desktop\studia\Jezyki i paradygmaty programowania\Laby\MatrixCalculator\cmake-build-debug\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/MatrixCalculator.dir/MatrixCalculator_autogen/mocs_compilation.cpp.obj"
-	C:\msys64\mingw64\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\MatrixCalculator.dir\MatrixCalculator_autogen\mocs_compilation.cpp.obj -c "C:\Users\artur\Desktop\studia\Jezyki i paradygmaty programowania\Laby\MatrixCalculator\cmake-build-debug\MatrixCalculator_autogen\mocs_compilation.cpp"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="C:\Users\artur\Desktop\studia\Jezyki i paradygmaty programowania\Laby\ProjectMatrixCalc\cmake-build-debug\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/MatrixCalculator.dir/MatrixCalculator_autogen/mocs_compilation.cpp.obj"
+	C:\msys64\mingw64\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\MatrixCalculator.dir\MatrixCalculator_autogen\mocs_compilation.cpp.obj -c "C:\Users\artur\Desktop\studia\Jezyki i paradygmaty programowania\Laby\ProjectMatrixCalc\cmake-build-debug\MatrixCalculator_autogen\mocs_compilation.cpp"
 
 CMakeFiles/MatrixCalculator.dir/MatrixCalculator_autogen/mocs_compilation.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/MatrixCalculator.dir/MatrixCalculator_autogen/mocs_compilation.cpp.i"
-	C:\msys64\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "C:\Users\artur\Desktop\studia\Jezyki i paradygmaty programowania\Laby\MatrixCalculator\cmake-build-debug\MatrixCalculator_autogen\mocs_compilation.cpp" > CMakeFiles\MatrixCalculator.dir\MatrixCalculator_autogen\mocs_compilation.cpp.i
+	C:\msys64\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "C:\Users\artur\Desktop\studia\Jezyki i paradygmaty programowania\Laby\ProjectMatrixCalc\cmake-build-debug\MatrixCalculator_autogen\mocs_compilation.cpp" > CMakeFiles\MatrixCalculator.dir\MatrixCalculator_autogen\mocs_compilation.cpp.i
 
 CMakeFiles/MatrixCalculator.dir/MatrixCalculator_autogen/mocs_compilation.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/MatrixCalculator.dir/MatrixCalculator_autogen/mocs_compilation.cpp.s"
-	C:\msys64\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "C:\Users\artur\Desktop\studia\Jezyki i paradygmaty programowania\Laby\MatrixCalculator\cmake-build-debug\MatrixCalculator_autogen\mocs_compilation.cpp" -o CMakeFiles\MatrixCalculator.dir\MatrixCalculator_autogen\mocs_compilation.cpp.s
+	C:\msys64\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "C:\Users\artur\Desktop\studia\Jezyki i paradygmaty programowania\Laby\ProjectMatrixCalc\cmake-build-debug\MatrixCalculator_autogen\mocs_compilation.cpp" -o CMakeFiles\MatrixCalculator.dir\MatrixCalculator_autogen\mocs_compilation.cpp.s
 
 CMakeFiles/MatrixCalculator.dir/sources/main.cpp.obj: CMakeFiles/MatrixCalculator.dir/flags.make
 CMakeFiles/MatrixCalculator.dir/sources/main.cpp.obj: CMakeFiles/MatrixCalculator.dir/includes_CXX.rsp
 CMakeFiles/MatrixCalculator.dir/sources/main.cpp.obj: ../sources/main.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="C:\Users\artur\Desktop\studia\Jezyki i paradygmaty programowania\Laby\MatrixCalculator\cmake-build-debug\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object CMakeFiles/MatrixCalculator.dir/sources/main.cpp.obj"
-	C:\msys64\mingw64\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\MatrixCalculator.dir\sources\main.cpp.obj -c "C:\Users\artur\Desktop\studia\Jezyki i paradygmaty programowania\Laby\MatrixCalculator\sources\main.cpp"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="C:\Users\artur\Desktop\studia\Jezyki i paradygmaty programowania\Laby\ProjectMatrixCalc\cmake-build-debug\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object CMakeFiles/MatrixCalculator.dir/sources/main.cpp.obj"
+	C:\msys64\mingw64\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\MatrixCalculator.dir\sources\main.cpp.obj -c "C:\Users\artur\Desktop\studia\Jezyki i paradygmaty programowania\Laby\ProjectMatrixCalc\sources\main.cpp"
 
 CMakeFiles/MatrixCalculator.dir/sources/main.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/MatrixCalculator.dir/sources/main.cpp.i"
-	C:\msys64\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "C:\Users\artur\Desktop\studia\Jezyki i paradygmaty programowania\Laby\MatrixCalculator\sources\main.cpp" > CMakeFiles\MatrixCalculator.dir\sources\main.cpp.i
+	C:\msys64\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "C:\Users\artur\Desktop\studia\Jezyki i paradygmaty programowania\Laby\ProjectMatrixCalc\sources\main.cpp" > CMakeFiles\MatrixCalculator.dir\sources\main.cpp.i
 
 CMakeFiles/MatrixCalculator.dir/sources/main.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/MatrixCalculator.dir/sources/main.cpp.s"
-	C:\msys64\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "C:\Users\artur\Desktop\studia\Jezyki i paradygmaty programowania\Laby\MatrixCalculator\sources\main.cpp" -o CMakeFiles\MatrixCalculator.dir\sources\main.cpp.s
+	C:\msys64\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "C:\Users\artur\Desktop\studia\Jezyki i paradygmaty programowania\Laby\ProjectMatrixCalc\sources\main.cpp" -o CMakeFiles\MatrixCalculator.dir\sources\main.cpp.s
 
 CMakeFiles/MatrixCalculator.dir/sources/matrix.cpp.obj: CMakeFiles/MatrixCalculator.dir/flags.make
 CMakeFiles/MatrixCalculator.dir/sources/matrix.cpp.obj: CMakeFiles/MatrixCalculator.dir/includes_CXX.rsp
 CMakeFiles/MatrixCalculator.dir/sources/matrix.cpp.obj: ../sources/matrix.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="C:\Users\artur\Desktop\studia\Jezyki i paradygmaty programowania\Laby\MatrixCalculator\cmake-build-debug\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_4) "Building CXX object CMakeFiles/MatrixCalculator.dir/sources/matrix.cpp.obj"
-	C:\msys64\mingw64\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\MatrixCalculator.dir\sources\matrix.cpp.obj -c "C:\Users\artur\Desktop\studia\Jezyki i paradygmaty programowania\Laby\MatrixCalculator\sources\matrix.cpp"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="C:\Users\artur\Desktop\studia\Jezyki i paradygmaty programowania\Laby\ProjectMatrixCalc\cmake-build-debug\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_4) "Building CXX object CMakeFiles/MatrixCalculator.dir/sources/matrix.cpp.obj"
+	C:\msys64\mingw64\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\MatrixCalculator.dir\sources\matrix.cpp.obj -c "C:\Users\artur\Desktop\studia\Jezyki i paradygmaty programowania\Laby\ProjectMatrixCalc\sources\matrix.cpp"
 
 CMakeFiles/MatrixCalculator.dir/sources/matrix.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/MatrixCalculator.dir/sources/matrix.cpp.i"
-	C:\msys64\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "C:\Users\artur\Desktop\studia\Jezyki i paradygmaty programowania\Laby\MatrixCalculator\sources\matrix.cpp" > CMakeFiles\MatrixCalculator.dir\sources\matrix.cpp.i
+	C:\msys64\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "C:\Users\artur\Desktop\studia\Jezyki i paradygmaty programowania\Laby\ProjectMatrixCalc\sources\matrix.cpp" > CMakeFiles\MatrixCalculator.dir\sources\matrix.cpp.i
 
 CMakeFiles/MatrixCalculator.dir/sources/matrix.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/MatrixCalculator.dir/sources/matrix.cpp.s"
-	C:\msys64\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "C:\Users\artur\Desktop\studia\Jezyki i paradygmaty programowania\Laby\MatrixCalculator\sources\matrix.cpp" -o CMakeFiles\MatrixCalculator.dir\sources\matrix.cpp.s
+	C:\msys64\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "C:\Users\artur\Desktop\studia\Jezyki i paradygmaty programowania\Laby\ProjectMatrixCalc\sources\matrix.cpp" -o CMakeFiles\MatrixCalculator.dir\sources\matrix.cpp.s
 
 CMakeFiles/MatrixCalculator.dir/sources/mainwindow.cpp.obj: CMakeFiles/MatrixCalculator.dir/flags.make
 CMakeFiles/MatrixCalculator.dir/sources/mainwindow.cpp.obj: CMakeFiles/MatrixCalculator.dir/includes_CXX.rsp
 CMakeFiles/MatrixCalculator.dir/sources/mainwindow.cpp.obj: ../sources/mainwindow.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="C:\Users\artur\Desktop\studia\Jezyki i paradygmaty programowania\Laby\MatrixCalculator\cmake-build-debug\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_5) "Building CXX object CMakeFiles/MatrixCalculator.dir/sources/mainwindow.cpp.obj"
-	C:\msys64\mingw64\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\MatrixCalculator.dir\sources\mainwindow.cpp.obj -c "C:\Users\artur\Desktop\studia\Jezyki i paradygmaty programowania\Laby\MatrixCalculator\sources\mainwindow.cpp"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="C:\Users\artur\Desktop\studia\Jezyki i paradygmaty programowania\Laby\ProjectMatrixCalc\cmake-build-debug\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_5) "Building CXX object CMakeFiles/MatrixCalculator.dir/sources/mainwindow.cpp.obj"
+	C:\msys64\mingw64\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\MatrixCalculator.dir\sources\mainwindow.cpp.obj -c "C:\Users\artur\Desktop\studia\Jezyki i paradygmaty programowania\Laby\ProjectMatrixCalc\sources\mainwindow.cpp"
 
 CMakeFiles/MatrixCalculator.dir/sources/mainwindow.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/MatrixCalculator.dir/sources/mainwindow.cpp.i"
-	C:\msys64\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "C:\Users\artur\Desktop\studia\Jezyki i paradygmaty programowania\Laby\MatrixCalculator\sources\mainwindow.cpp" > CMakeFiles\MatrixCalculator.dir\sources\mainwindow.cpp.i
+	C:\msys64\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "C:\Users\artur\Desktop\studia\Jezyki i paradygmaty programowania\Laby\ProjectMatrixCalc\sources\mainwindow.cpp" > CMakeFiles\MatrixCalculator.dir\sources\mainwindow.cpp.i
 
 CMakeFiles/MatrixCalculator.dir/sources/mainwindow.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/MatrixCalculator.dir/sources/mainwindow.cpp.s"
-	C:\msys64\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "C:\Users\artur\Desktop\studia\Jezyki i paradygmaty programowania\Laby\MatrixCalculator\sources\mainwindow.cpp" -o CMakeFiles\MatrixCalculator.dir\sources\mainwindow.cpp.s
+	C:\msys64\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "C:\Users\artur\Desktop\studia\Jezyki i paradygmaty programowania\Laby\ProjectMatrixCalc\sources\mainwindow.cpp" -o CMakeFiles\MatrixCalculator.dir\sources\mainwindow.cpp.s
 
 CMakeFiles/MatrixCalculator.dir/sources/exceptions.cpp.obj: CMakeFiles/MatrixCalculator.dir/flags.make
 CMakeFiles/MatrixCalculator.dir/sources/exceptions.cpp.obj: CMakeFiles/MatrixCalculator.dir/includes_CXX.rsp
 CMakeFiles/MatrixCalculator.dir/sources/exceptions.cpp.obj: ../sources/exceptions.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="C:\Users\artur\Desktop\studia\Jezyki i paradygmaty programowania\Laby\MatrixCalculator\cmake-build-debug\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_6) "Building CXX object CMakeFiles/MatrixCalculator.dir/sources/exceptions.cpp.obj"
-	C:\msys64\mingw64\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\MatrixCalculator.dir\sources\exceptions.cpp.obj -c "C:\Users\artur\Desktop\studia\Jezyki i paradygmaty programowania\Laby\MatrixCalculator\sources\exceptions.cpp"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="C:\Users\artur\Desktop\studia\Jezyki i paradygmaty programowania\Laby\ProjectMatrixCalc\cmake-build-debug\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_6) "Building CXX object CMakeFiles/MatrixCalculator.dir/sources/exceptions.cpp.obj"
+	C:\msys64\mingw64\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\MatrixCalculator.dir\sources\exceptions.cpp.obj -c "C:\Users\artur\Desktop\studia\Jezyki i paradygmaty programowania\Laby\ProjectMatrixCalc\sources\exceptions.cpp"
 
 CMakeFiles/MatrixCalculator.dir/sources/exceptions.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/MatrixCalculator.dir/sources/exceptions.cpp.i"
-	C:\msys64\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "C:\Users\artur\Desktop\studia\Jezyki i paradygmaty programowania\Laby\MatrixCalculator\sources\exceptions.cpp" > CMakeFiles\MatrixCalculator.dir\sources\exceptions.cpp.i
+	C:\msys64\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "C:\Users\artur\Desktop\studia\Jezyki i paradygmaty programowania\Laby\ProjectMatrixCalc\sources\exceptions.cpp" > CMakeFiles\MatrixCalculator.dir\sources\exceptions.cpp.i
 
 CMakeFiles/MatrixCalculator.dir/sources/exceptions.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/MatrixCalculator.dir/sources/exceptions.cpp.s"
-	C:\msys64\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "C:\Users\artur\Desktop\studia\Jezyki i paradygmaty programowania\Laby\MatrixCalculator\sources\exceptions.cpp" -o CMakeFiles\MatrixCalculator.dir\sources\exceptions.cpp.s
+	C:\msys64\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "C:\Users\artur\Desktop\studia\Jezyki i paradygmaty programowania\Laby\ProjectMatrixCalc\sources\exceptions.cpp" -o CMakeFiles\MatrixCalculator.dir\sources\exceptions.cpp.s
 
 CMakeFiles/MatrixCalculator.dir/MatrixCalculator_autogen/3YJK5W5UP7/qrc_application.cpp.obj: CMakeFiles/MatrixCalculator.dir/flags.make
 CMakeFiles/MatrixCalculator.dir/MatrixCalculator_autogen/3YJK5W5UP7/qrc_application.cpp.obj: CMakeFiles/MatrixCalculator.dir/includes_CXX.rsp
 CMakeFiles/MatrixCalculator.dir/MatrixCalculator_autogen/3YJK5W5UP7/qrc_application.cpp.obj: MatrixCalculator_autogen/3YJK5W5UP7/qrc_application.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="C:\Users\artur\Desktop\studia\Jezyki i paradygmaty programowania\Laby\MatrixCalculator\cmake-build-debug\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_7) "Building CXX object CMakeFiles/MatrixCalculator.dir/MatrixCalculator_autogen/3YJK5W5UP7/qrc_application.cpp.obj"
-	C:\msys64\mingw64\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\MatrixCalculator.dir\MatrixCalculator_autogen\3YJK5W5UP7\qrc_application.cpp.obj -c "C:\Users\artur\Desktop\studia\Jezyki i paradygmaty programowania\Laby\MatrixCalculator\cmake-build-debug\MatrixCalculator_autogen\3YJK5W5UP7\qrc_application.cpp"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="C:\Users\artur\Desktop\studia\Jezyki i paradygmaty programowania\Laby\ProjectMatrixCalc\cmake-build-debug\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_7) "Building CXX object CMakeFiles/MatrixCalculator.dir/MatrixCalculator_autogen/3YJK5W5UP7/qrc_application.cpp.obj"
+	C:\msys64\mingw64\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\MatrixCalculator.dir\MatrixCalculator_autogen\3YJK5W5UP7\qrc_application.cpp.obj -c "C:\Users\artur\Desktop\studia\Jezyki i paradygmaty programowania\Laby\ProjectMatrixCalc\cmake-build-debug\MatrixCalculator_autogen\3YJK5W5UP7\qrc_application.cpp"
 
 CMakeFiles/MatrixCalculator.dir/MatrixCalculator_autogen/3YJK5W5UP7/qrc_application.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/MatrixCalculator.dir/MatrixCalculator_autogen/3YJK5W5UP7/qrc_application.cpp.i"
-	C:\msys64\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "C:\Users\artur\Desktop\studia\Jezyki i paradygmaty programowania\Laby\MatrixCalculator\cmake-build-debug\MatrixCalculator_autogen\3YJK5W5UP7\qrc_application.cpp" > CMakeFiles\MatrixCalculator.dir\MatrixCalculator_autogen\3YJK5W5UP7\qrc_application.cpp.i
+	C:\msys64\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "C:\Users\artur\Desktop\studia\Jezyki i paradygmaty programowania\Laby\ProjectMatrixCalc\cmake-build-debug\MatrixCalculator_autogen\3YJK5W5UP7\qrc_application.cpp" > CMakeFiles\MatrixCalculator.dir\MatrixCalculator_autogen\3YJK5W5UP7\qrc_application.cpp.i
 
 CMakeFiles/MatrixCalculator.dir/MatrixCalculator_autogen/3YJK5W5UP7/qrc_application.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/MatrixCalculator.dir/MatrixCalculator_autogen/3YJK5W5UP7/qrc_application.cpp.s"
-	C:\msys64\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "C:\Users\artur\Desktop\studia\Jezyki i paradygmaty programowania\Laby\MatrixCalculator\cmake-build-debug\MatrixCalculator_autogen\3YJK5W5UP7\qrc_application.cpp" -o CMakeFiles\MatrixCalculator.dir\MatrixCalculator_autogen\3YJK5W5UP7\qrc_application.cpp.s
+	C:\msys64\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "C:\Users\artur\Desktop\studia\Jezyki i paradygmaty programowania\Laby\ProjectMatrixCalc\cmake-build-debug\MatrixCalculator_autogen\3YJK5W5UP7\qrc_application.cpp" -o CMakeFiles\MatrixCalculator.dir\MatrixCalculator_autogen\3YJK5W5UP7\qrc_application.cpp.s
 
 # Object files for target MatrixCalculator
 MatrixCalculator_OBJECTS = \
@@ -192,9 +192,9 @@ MatrixCalculator.exe: C:/Qt/5.15.2/mingw81_64/lib/libQt5Core.a
 MatrixCalculator.exe: CMakeFiles/MatrixCalculator.dir/linklibs.rsp
 MatrixCalculator.exe: CMakeFiles/MatrixCalculator.dir/objects1.rsp
 MatrixCalculator.exe: CMakeFiles/MatrixCalculator.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir="C:\Users\artur\Desktop\studia\Jezyki i paradygmaty programowania\Laby\MatrixCalculator\cmake-build-debug\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_8) "Linking CXX executable MatrixCalculator.exe"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir="C:\Users\artur\Desktop\studia\Jezyki i paradygmaty programowania\Laby\ProjectMatrixCalc\cmake-build-debug\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_8) "Linking CXX executable MatrixCalculator.exe"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles\MatrixCalculator.dir\link.txt --verbose=$(VERBOSE)
-	"C:\Program Files\JetBrains\CLion 2020.3\bin\cmake\win\bin\cmake.exe" -E copy C:/Qt/5.15.2/mingw81_64/bin/Qt5Cored.dll "C:/Users/artur/Desktop/studia/Jezyki i paradygmaty programowania/Laby/MatrixCalculator/cmake-build-debug"
+	"C:\Program Files\JetBrains\CLion 2020.3\bin\cmake\win\bin\cmake.exe" -E copy C:/Qt/5.15.2/mingw81_64/bin/Qt5Cored.dll "C:/Users/artur/Desktop/studia/Jezyki i paradygmaty programowania/Laby/ProjectMatrixCalc/cmake-build-debug"
 
 # Rule to build all files generated by this target.
 CMakeFiles/MatrixCalculator.dir/build: MatrixCalculator.exe
@@ -206,6 +206,6 @@ CMakeFiles/MatrixCalculator.dir/clean:
 .PHONY : CMakeFiles/MatrixCalculator.dir/clean
 
 CMakeFiles/MatrixCalculator.dir/depend: MatrixCalculator_autogen/3YJK5W5UP7/qrc_application.cpp
-	$(CMAKE_COMMAND) -E cmake_depends "MinGW Makefiles" "C:\Users\artur\Desktop\studia\Jezyki i paradygmaty programowania\Laby\MatrixCalculator" "C:\Users\artur\Desktop\studia\Jezyki i paradygmaty programowania\Laby\MatrixCalculator" "C:\Users\artur\Desktop\studia\Jezyki i paradygmaty programowania\Laby\MatrixCalculator\cmake-build-debug" "C:\Users\artur\Desktop\studia\Jezyki i paradygmaty programowania\Laby\MatrixCalculator\cmake-build-debug" "C:\Users\artur\Desktop\studia\Jezyki i paradygmaty programowania\Laby\MatrixCalculator\cmake-build-debug\CMakeFiles\MatrixCalculator.dir\DependInfo.cmake" --color=$(COLOR)
+	$(CMAKE_COMMAND) -E cmake_depends "MinGW Makefiles" "C:\Users\artur\Desktop\studia\Jezyki i paradygmaty programowania\Laby\ProjectMatrixCalc" "C:\Users\artur\Desktop\studia\Jezyki i paradygmaty programowania\Laby\ProjectMatrixCalc" "C:\Users\artur\Desktop\studia\Jezyki i paradygmaty programowania\Laby\ProjectMatrixCalc\cmake-build-debug" "C:\Users\artur\Desktop\studia\Jezyki i paradygmaty programowania\Laby\ProjectMatrixCalc\cmake-build-debug" "C:\Users\artur\Desktop\studia\Jezyki i paradygmaty programowania\Laby\ProjectMatrixCalc\cmake-build-debug\CMakeFiles\MatrixCalculator.dir\DependInfo.cmake" --color=$(COLOR)
 .PHONY : CMakeFiles/MatrixCalculator.dir/depend
 

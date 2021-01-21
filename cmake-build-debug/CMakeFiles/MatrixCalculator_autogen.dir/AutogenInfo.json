@@ -1,28 +1,28 @@
 {
-	"BUILD_DIR" : "C:/Users/artur/Desktop/studia/Jezyki i paradygmaty programowania/Laby/MatrixCalculator/cmake-build-debug/MatrixCalculator_autogen",
-	"CMAKE_BINARY_DIR" : "C:/Users/artur/Desktop/studia/Jezyki i paradygmaty programowania/Laby/MatrixCalculator/cmake-build-debug",
-	"CMAKE_CURRENT_BINARY_DIR" : "C:/Users/artur/Desktop/studia/Jezyki i paradygmaty programowania/Laby/MatrixCalculator/cmake-build-debug",
-	"CMAKE_CURRENT_SOURCE_DIR" : "C:/Users/artur/Desktop/studia/Jezyki i paradygmaty programowania/Laby/MatrixCalculator",
+	"BUILD_DIR" : "C:/Users/artur/Desktop/studia/Jezyki i paradygmaty programowania/Laby/ProjectMatrixCalc/cmake-build-debug/MatrixCalculator_autogen",
+	"CMAKE_BINARY_DIR" : "C:/Users/artur/Desktop/studia/Jezyki i paradygmaty programowania/Laby/ProjectMatrixCalc/cmake-build-debug",
+	"CMAKE_CURRENT_BINARY_DIR" : "C:/Users/artur/Desktop/studia/Jezyki i paradygmaty programowania/Laby/ProjectMatrixCalc/cmake-build-debug",
+	"CMAKE_CURRENT_SOURCE_DIR" : "C:/Users/artur/Desktop/studia/Jezyki i paradygmaty programowania/Laby/ProjectMatrixCalc",
 	"CMAKE_EXECUTABLE" : "C:/Program Files/JetBrains/CLion 2020.3/bin/cmake/win/bin/cmake.exe",
-	"CMAKE_SOURCE_DIR" : "C:/Users/artur/Desktop/studia/Jezyki i paradygmaty programowania/Laby/MatrixCalculator",
+	"CMAKE_SOURCE_DIR" : "C:/Users/artur/Desktop/studia/Jezyki i paradygmaty programowania/Laby/ProjectMatrixCalc",
 	"DEP_FILE" : "",
 	"DEP_FILE_RULE_NAME" : "",
 	"HEADERS" : 
 	[
 		[
-			"C:/Users/artur/Desktop/studia/Jezyki i paradygmaty programowania/Laby/MatrixCalculator/include/mainwindow.h",
+			"C:/Users/artur/Desktop/studia/Jezyki i paradygmaty programowania/Laby/ProjectMatrixCalc/include/mainwindow.h",
 			"MU",
 			"6YEA5652QU/moc_mainwindow.cpp"
 		],
 		[
-			"C:/Users/artur/Desktop/studia/Jezyki i paradygmaty programowania/Laby/MatrixCalculator/include/matrix.h",
+			"C:/Users/artur/Desktop/studia/Jezyki i paradygmaty programowania/Laby/ProjectMatrixCalc/include/matrix.h",
 			"MU",
 			"6YEA5652QU/moc_matrix.cpp"
 		]
 	],
 	"HEADER_EXTENSIONS" : [ "h", "hh", "h++", "hm", "hpp", "hxx", "in", "txx" ],
-	"INCLUDE_DIR" : "C:/Users/artur/Desktop/studia/Jezyki i paradygmaty programowania/Laby/MatrixCalculator/cmake-build-debug/MatrixCalculator_autogen/include",
-	"MOC_COMPILATION_FILE" : "C:/Users/artur/Desktop/studia/Jezyki i paradygmaty programowania/Laby/MatrixCalculator/cmake-build-debug/MatrixCalculator_autogen/mocs_compilation.cpp",
+	"INCLUDE_DIR" : "C:/Users/artur/Desktop/studia/Jezyki i paradygmaty programowania/Laby/ProjectMatrixCalc/cmake-build-debug/MatrixCalculator_autogen/include",
+	"MOC_COMPILATION_FILE" : "C:/Users/artur/Desktop/studia/Jezyki i paradygmaty programowania/Laby/ProjectMatrixCalc/cmake-build-debug/MatrixCalculator_autogen/mocs_compilation.cpp",
 	"MOC_DEFINITIONS" : [ "QT_CORE_LIB", "QT_GUI_LIB", "QT_WIDGETS_LIB" ],
 	"MOC_DEPEND_FILTERS" : 
 	[
@@ -58,33 +58,33 @@
 		"-c",
 		"C:/Program Files/JetBrains/CLion 2020.3/bin/cmake/win/share/cmake-3.17/Modules/CMakeCXXCompilerABI.cpp"
 	],
-	"MOC_PREDEFS_FILE" : "C:/Users/artur/Desktop/studia/Jezyki i paradygmaty programowania/Laby/MatrixCalculator/cmake-build-debug/MatrixCalculator_autogen/moc_predefs.h",
+	"MOC_PREDEFS_FILE" : "C:/Users/artur/Desktop/studia/Jezyki i paradygmaty programowania/Laby/ProjectMatrixCalc/cmake-build-debug/MatrixCalculator_autogen/moc_predefs.h",
 	"MOC_RELAXED_MODE" : false,
 	"MOC_SKIP" : [],
 	"MULTI_CONFIG" : false,
 	"PARALLEL" : 4,
-	"PARSE_CACHE_FILE" : "C:/Users/artur/Desktop/studia/Jezyki i paradygmaty programowania/Laby/MatrixCalculator/cmake-build-debug/CMakeFiles/MatrixCalculator_autogen.dir/ParseCache.txt",
+	"PARSE_CACHE_FILE" : "C:/Users/artur/Desktop/studia/Jezyki i paradygmaty programowania/Laby/ProjectMatrixCalc/cmake-build-debug/CMakeFiles/MatrixCalculator_autogen.dir/ParseCache.txt",
 	"QT_MOC_EXECUTABLE" : "C:/Qt/5.15.2/mingw81_64/bin/moc.exe",
 	"QT_UIC_EXECUTABLE" : "C:/Qt/5.15.2/mingw81_64/bin/uic.exe",
 	"QT_VERSION_MAJOR" : 5,
 	"QT_VERSION_MINOR" : 15,
-	"SETTINGS_FILE" : "C:/Users/artur/Desktop/studia/Jezyki i paradygmaty programowania/Laby/MatrixCalculator/cmake-build-debug/CMakeFiles/MatrixCalculator_autogen.dir/AutogenUsed.txt",
+	"SETTINGS_FILE" : "C:/Users/artur/Desktop/studia/Jezyki i paradygmaty programowania/Laby/ProjectMatrixCalc/cmake-build-debug/CMakeFiles/MatrixCalculator_autogen.dir/AutogenUsed.txt",
 	"SOURCES" : 
 	[
 		[
-			"C:/Users/artur/Desktop/studia/Jezyki i paradygmaty programowania/Laby/MatrixCalculator/sources/exceptions.cpp",
+			"C:/Users/artur/Desktop/studia/Jezyki i paradygmaty programowania/Laby/ProjectMatrixCalc/sources/exceptions.cpp",
 			"MU"
 		],
 		[
-			"C:/Users/artur/Desktop/studia/Jezyki i paradygmaty programowania/Laby/MatrixCalculator/sources/main.cpp",
+			"C:/Users/artur/Desktop/studia/Jezyki i paradygmaty programowania/Laby/ProjectMatrixCalc/sources/main.cpp",
 			"MU"
 		],
 		[
-			"C:/Users/artur/Desktop/studia/Jezyki i paradygmaty programowania/Laby/MatrixCalculator/sources/mainwindow.cpp",
+			"C:/Users/artur/Desktop/studia/Jezyki i paradygmaty programowania/Laby/ProjectMatrixCalc/sources/mainwindow.cpp",
 			"MU"
 		],
 		[
-			"C:/Users/artur/Desktop/studia/Jezyki i paradygmaty programowania/Laby/MatrixCalculator/sources/matrix.cpp",
+			"C:/Users/artur/Desktop/studia/Jezyki i paradygmaty programowania/Laby/ProjectMatrixCalc/sources/matrix.cpp",
 			"MU"
 		]
 	],

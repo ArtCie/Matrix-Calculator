@@ -1,5 +1,5 @@
-C:/Users/artur/Desktop/studia/Jezyki\ i\ paradygmaty\ programowania/Laby/MatrixCalculator/cmake-build-debug/MatrixCalculator_autogen/6YEA5652QU/moc_mainwindow.cpp: C:/Users/artur/Desktop/studia/Jezyki\ i\ paradygmaty\ programowania/Laby/MatrixCalculator/include/mainwindow.h \
-  C:/Users/artur/Desktop/studia/Jezyki\ i\ paradygmaty\ programowania/Laby/MatrixCalculator/cmake-build-debug/MatrixCalculator_autogen/moc_predefs.h \
+C:/Users/artur/Desktop/studia/Jezyki\ i\ paradygmaty\ programowania/Laby/ProjectMatrixCalc/cmake-build-debug/MatrixCalculator_autogen/6YEA5652QU/moc_mainwindow.cpp: C:/Users/artur/Desktop/studia/Jezyki\ i\ paradygmaty\ programowania/Laby/ProjectMatrixCalc/include/mainwindow.h \
+  C:/Users/artur/Desktop/studia/Jezyki\ i\ paradygmaty\ programowania/Laby/ProjectMatrixCalc/cmake-build-debug/MatrixCalculator_autogen/moc_predefs.h \
   C:/Qt/5.15.2/mingw81_64/include/QtCore/QObject \
   C:/Qt/5.15.2/mingw81_64/include/QtCore/QString \
   C:/Qt/5.15.2/mingw81_64/include/QtCore/qabstractitemmodel.h \
@@ -133,7 +133,7 @@ C:/Users/artur/Desktop/studia/Jezyki\ i\ paradygmaty\ programowania/Laby/MatrixC
   C:/Qt/5.15.2/mingw81_64/include/QtWidgets/qtwidgets-config.h \
   C:/Qt/5.15.2/mingw81_64/include/QtWidgets/qtwidgetsglobal.h \
   C:/Qt/5.15.2/mingw81_64/include/QtWidgets/qwidget.h \
-  C:/Users/artur/Desktop/studia/Jezyki\ i\ paradygmaty\ programowania/Laby/MatrixCalculator/include/matrix.h \
+  C:/Users/artur/Desktop/studia/Jezyki\ i\ paradygmaty\ programowania/Laby/ProjectMatrixCalc/include/matrix.h \
   C:/msys64/mingw64/include/c++/10.2.0/algorithm \
   C:/msys64/mingw64/include/c++/10.2.0/array \
   C:/msys64/mingw64/include/c++/10.2.0/atomic \

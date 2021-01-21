@@ -58,14 +58,6 @@ MainWindow::MainWindow(QWidget *parent)
     reshapeTable(410,matrixB);
     connect(matrixB,SIGNAL(itemChanged(QTableWidgetItem *)),this,SLOT(checkArgFun(QTableWidgetItem *)));
 
-    for(int i=0;i<matrixA->rowCount();i++)
-    {
-        for(int j=0;j<matrixA->columnCount();j++)
-        {
-            matrixA->setItem(i,j,new QTableWidgetItem(QString::fromStdString(constTexts[5])));
-            matrixB->setItem(i,j,new QTableWidgetItem(QString::fromStdString(constTexts[5])));
-        }
-    }
 
     matrixResult = new QTableWidget(2,2,this);
     matrixResult->setGeometry(810,30,120,92);
@@ -74,6 +66,16 @@ MainWindow::MainWindow(QWidget *parent)
     matrixResult->setSelectionMode(QAbstractItemView::SingleSelection);
     matrixResult->setShowGrid(true);
     reshapeTable(810,matrixResult);
+
+    for(int i=0;i<matrixA->rowCount();i++)
+    {
+        for(int j=0;j<matrixA->columnCount();j++)
+        {
+            matrixA->setItem(i,j,new QTableWidgetItem(QString::fromStdString(constTexts[5])));
+            matrixB->setItem(i,j,new QTableWidgetItem(QString::fromStdString(constTexts[5])));
+            matrixResult->setItem(i,j,new QTableWidgetItem(QString::fromStdString(constTexts[5])));
+        }
+    }
 
     determinantResult = new QLabel(" ",this);
     determinantResult->setFrameStyle(QFrame::Box);
@@ -734,7 +736,7 @@ void MainWindow::changeLabels(std::string const &firstHeader,std::string const &
             operationTwo->setGeometry((810+410+5*50)/2,(32+5*30)/2,50,50);
         }
         else {
-            operationTwo->setGeometry((810+410+matrixB->columnCount()*50)/2, (32+5*30)/2,50,50);
+            operationTwo->setGeometry((810+410+matrixB->columnCount()*50)/2, (32+matrixB->rowCount()*30)/2,50,50);
         }
     }
 }
@@ -752,10 +754,6 @@ void MainWindow::fillResultTable(QTableWidget* tab,matrix * temp){
 string* handleText(){
     ifstream file;
     file.open("../resources/TextsFile.txt");
-        if(!file.good())
-    {
-
-    }
     string temp;
     string *table;
     table=new string[65];

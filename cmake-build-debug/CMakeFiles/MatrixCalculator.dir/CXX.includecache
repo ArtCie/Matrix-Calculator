@@ -6,17 +6,9 @@
 
 #IncludeRegexTransform: 
 
-C:/Qt/5.15.2/mingw81_64/include/QtCore/QObject
-qobject.h
-C:/Qt/5.15.2/mingw81_64/include/QtCore/qobject.h
-
 C:/Qt/5.15.2/mingw81_64/include/QtCore/QRandomGenerator
 qrandom.h
 C:/Qt/5.15.2/mingw81_64/include/QtCore/qrandom.h
-
-C:/Qt/5.15.2/mingw81_64/include/QtCore/QString
-qstring.h
-C:/Qt/5.15.2/mingw81_64/include/QtCore/qstring.h
 
 C:/Qt/5.15.2/mingw81_64/include/QtCore/qabstractitemmodel.h
 QtCore/qvariant.h
@@ -126,20 +118,6 @@ limits.h
 new
 -
 
-C:/Qt/5.15.2/mingw81_64/include/QtCore/qcoreapplication.h
-QtCore/qglobal.h
--
-QtCore/qstring.h
--
-QtCore/qobject.h
--
-QtCore/qcoreevent.h
--
-QtCore/qeventloop.h
--
-QtCore/qscopedpointer.h
--
-
 C:/Qt/5.15.2/mingw81_64/include/QtCore/qcoreevent.h
 QtCore/qnamespace.h
 -
@@ -186,10 +164,6 @@ list
 map
 -
 utility
--
-
-C:/Qt/5.15.2/mingw81_64/include/QtCore/qeventloop.h
-QtCore/qobject.h
 -
 
 C:/Qt/5.15.2/mingw81_64/include/QtCore/qfile.h
@@ -900,22 +874,6 @@ QtCore/qsharedpointer.h
 QtCore/qrect.h
 -
 
-C:/Qt/5.15.2/mingw81_64/include/QtGui/qguiapplication.h
-QtGui/qtguiglobal.h
--
-QtCore/qcoreapplication.h
--
-QtGui/qwindowdefs.h
--
-QtGui/qinputmethod.h
--
-QtCore/qlocale.h
--
-QtCore/qpoint.h
--
-QtCore/qsize.h
--
-
 C:/Qt/5.15.2/mingw81_64/include/QtGui/qicon.h
 QtGui/qtguiglobal.h
 -
@@ -946,12 +904,6 @@ QtCore/qrect.h
 QtCore/qstring.h
 -
 QtCore/qstringlist.h
--
-
-C:/Qt/5.15.2/mingw81_64/include/QtGui/qinputmethod.h
-QtGui/qtguiglobal.h
--
-QtCore/qobject.h
 -
 
 C:/Qt/5.15.2/mingw81_64/include/QtGui/qkeysequence.h
@@ -1120,51 +1072,9 @@ C:/Qt/5.15.2/mingw81_64/include/QtGui/qwindowdefs_win.h
 QtGui/qtguiglobal.h
 -
 
-C:/Qt/5.15.2/mingw81_64/include/QtWidgets/QApplication
-qapplication.h
-C:/Qt/5.15.2/mingw81_64/include/QtWidgets/qapplication.h
-
-C:/Qt/5.15.2/mingw81_64/include/QtWidgets/QHBoxLayout
-qboxlayout.h
-C:/Qt/5.15.2/mingw81_64/include/QtWidgets/qboxlayout.h
-
-C:/Qt/5.15.2/mingw81_64/include/QtWidgets/QLabel
-qlabel.h
-C:/Qt/5.15.2/mingw81_64/include/QtWidgets/qlabel.h
-
-C:/Qt/5.15.2/mingw81_64/include/QtWidgets/QMainWindow
-qmainwindow.h
-C:/Qt/5.15.2/mingw81_64/include/QtWidgets/qmainwindow.h
-
-C:/Qt/5.15.2/mingw81_64/include/QtWidgets/QMessageBox
-qmessagebox.h
-C:/Qt/5.15.2/mingw81_64/include/QtWidgets/qmessagebox.h
-
-C:/Qt/5.15.2/mingw81_64/include/QtWidgets/QPushButton
-qpushbutton.h
-C:/Qt/5.15.2/mingw81_64/include/QtWidgets/qpushbutton.h
-
-C:/Qt/5.15.2/mingw81_64/include/QtWidgets/QSlider
-qslider.h
-C:/Qt/5.15.2/mingw81_64/include/QtWidgets/qslider.h
-
-C:/Qt/5.15.2/mingw81_64/include/QtWidgets/QSpinBox
-qspinbox.h
-C:/Qt/5.15.2/mingw81_64/include/QtWidgets/qspinbox.h
-
 C:/Qt/5.15.2/mingw81_64/include/QtWidgets/QTableWidget
 qtablewidget.h
 C:/Qt/5.15.2/mingw81_64/include/QtWidgets/qtablewidget.h
-
-C:/Qt/5.15.2/mingw81_64/include/QtWidgets/qabstractbutton.h
-QtWidgets/qtwidgetsglobal.h
--
-QtGui/qicon.h
--
-QtGui/qkeysequence.h
--
-QtWidgets/qwidget.h
--
 
 C:/Qt/5.15.2/mingw81_64/include/QtWidgets/qabstractitemdelegate.h
 QtWidgets/qtwidgetsglobal.h
@@ -1206,116 +1116,10 @@ QtWidgets/qwidget.h
 QtGui/qvalidator.h
 -
 
-C:/Qt/5.15.2/mingw81_64/include/QtWidgets/qapplication.h
-QtWidgets/qtwidgetsglobal.h
--
-QtCore/qcoreapplication.h
--
-QtGui/qwindowdefs.h
--
-QtCore/qpoint.h
--
-QtCore/qsize.h
--
-QtGui/qcursor.h
--
-QtWidgets/qdesktopwidget.h
--
-QtGui/qguiapplication.h
--
-
-C:/Qt/5.15.2/mingw81_64/include/QtWidgets/qboxlayout.h
-QtWidgets/qtwidgetsglobal.h
--
-QtWidgets/qlayout.h
--
-QtWidgets/qwidget.h
--
-limits.h
--
-
-C:/Qt/5.15.2/mingw81_64/include/QtWidgets/qdesktopwidget.h
-QtWidgets/qtwidgetsglobal.h
--
-QtWidgets/qwidget.h
--
-
-C:/Qt/5.15.2/mingw81_64/include/QtWidgets/qdialog.h
-QtWidgets/qtwidgetsglobal.h
--
-QtWidgets/qwidget.h
--
-
 C:/Qt/5.15.2/mingw81_64/include/QtWidgets/qframe.h
 QtWidgets/qtwidgetsglobal.h
 -
 QtWidgets/qwidget.h
--
-
-C:/Qt/5.15.2/mingw81_64/include/QtWidgets/qgridlayout.h
-QtWidgets/qtwidgetsglobal.h
--
-QtWidgets/qlayout.h
--
-QtWidgets/qwidget.h
--
-limits.h
--
-
-C:/Qt/5.15.2/mingw81_64/include/QtWidgets/qlabel.h
-QtWidgets/qtwidgetsglobal.h
--
-QtWidgets/qframe.h
--
-
-C:/Qt/5.15.2/mingw81_64/include/QtWidgets/qlayout.h
-QtWidgets/qtwidgetsglobal.h
--
-QtCore/qobject.h
--
-QtWidgets/qlayoutitem.h
--
-QtWidgets/qsizepolicy.h
--
-QtCore/qrect.h
--
-QtCore/qmargins.h
--
-limits.h
--
-QtWidgets/qboxlayout.h
--
-QtWidgets/qgridlayout.h
--
-
-C:/Qt/5.15.2/mingw81_64/include/QtWidgets/qlayoutitem.h
-QtWidgets/qtwidgetsglobal.h
--
-QtWidgets/qsizepolicy.h
--
-QtCore/qrect.h
--
-limits.h
--
-
-C:/Qt/5.15.2/mingw81_64/include/QtWidgets/qmainwindow.h
-QtWidgets/qtwidgetsglobal.h
--
-QtWidgets/qwidget.h
--
-QtWidgets/qtabwidget.h
--
-
-C:/Qt/5.15.2/mingw81_64/include/QtWidgets/qmessagebox.h
-QtWidgets/qtwidgetsglobal.h
--
-QtWidgets/qdialog.h
--
-
-C:/Qt/5.15.2/mingw81_64/include/QtWidgets/qpushbutton.h
-QtWidgets/qtwidgetsglobal.h
--
-QtWidgets/qabstractbutton.h
 -
 
 C:/Qt/5.15.2/mingw81_64/include/QtWidgets/qrubberband.h
@@ -1336,12 +1140,6 @@ C:/Qt/5.15.2/mingw81_64/include/QtWidgets/qslider.h
 QtWidgets/qtwidgetsglobal.h
 -
 QtWidgets/qabstractslider.h
--
-
-C:/Qt/5.15.2/mingw81_64/include/QtWidgets/qspinbox.h
-QtWidgets/qtwidgetsglobal.h
--
-QtWidgets/qabstractspinbox.h
 -
 
 C:/Qt/5.15.2/mingw81_64/include/QtWidgets/qstyle.h
@@ -1460,69 +1258,19 @@ QtGui/qkeysequence.h
 QtGui/qevent.h
 -
 
-C:/Users/artur/Desktop/studia/Jezyki i paradygmaty programowania/Laby/MatrixCalculator/include/mainwindow.h
-../include/matrix.h
-C:/Users/artur/Desktop/studia/Jezyki i paradygmaty programowania/Laby/MatrixCalculator/include/matrix.h
-QHBoxLayout
--
-QLabel
--
-QString
--
-QMessageBox
--
-QTableWidget
--
-QMainWindow
--
-QPushButton
--
-QApplication
--
-QObject
--
-QSlider
--
-QLabel
--
-QSpinBox
--
-
-C:/Users/artur/Desktop/studia/Jezyki i paradygmaty programowania/Laby/MatrixCalculator/include/matrix.h
+C:/Users/artur/Desktop/studia/Jezyki i paradygmaty programowania/Laby/ProjectMatrixCalc/include/matrix.h
 QTableWidget
 -
 
-C:/Users/artur/Desktop/studia/Jezyki i paradygmaty programowania/Laby/MatrixCalculator/sources/exceptions.cpp
+C:/Users/artur/Desktop/studia/Jezyki i paradygmaty programowania/Laby/ProjectMatrixCalc/sources/exceptions.cpp
 iostream
 -
 
-C:/Users/artur/Desktop/studia/Jezyki i paradygmaty programowania/Laby/MatrixCalculator/sources/mainwindow.cpp
-../include/mainwindow.h
-C:/Users/artur/Desktop/studia/Jezyki i paradygmaty programowania/Laby/MatrixCalculator/include/mainwindow.h
-../sources/exceptions.cpp
-C:/Users/artur/Desktop/studia/Jezyki i paradygmaty programowania/Laby/MatrixCalculator/sources/exceptions.cpp
-QLabel
--
-QMessageBox
--
-QTableWidget
--
-QMainWindow
--
-QPushButton
--
-QSpinBox
--
-iostream
--
-fstream
--
-
-C:/Users/artur/Desktop/studia/Jezyki i paradygmaty programowania/Laby/MatrixCalculator/sources/matrix.cpp
+C:/Users/artur/Desktop/studia/Jezyki i paradygmaty programowania/Laby/ProjectMatrixCalc/sources/matrix.cpp
 ../include/matrix.h
-C:/Users/artur/Desktop/studia/Jezyki i paradygmaty programowania/Laby/MatrixCalculator/include/matrix.h
+C:/Users/artur/Desktop/studia/Jezyki i paradygmaty programowania/Laby/ProjectMatrixCalc/include/matrix.h
 exceptions.cpp
-C:/Users/artur/Desktop/studia/Jezyki i paradygmaty programowania/Laby/MatrixCalculator/sources/exceptions.cpp
+C:/Users/artur/Desktop/studia/Jezyki i paradygmaty programowania/Laby/ProjectMatrixCalc/sources/exceptions.cpp
 QRandomGenerator
 -
 iostream

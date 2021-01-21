@@ -62,10 +62,10 @@ RM = "C:\Program Files\JetBrains\CLion 2020.3\bin\cmake\win\bin\cmake.exe" -E rm
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = "C:\Users\artur\Desktop\studia\Jezyki i paradygmaty programowania\Laby\MatrixCalculator"
+CMAKE_SOURCE_DIR = "C:\Users\artur\Desktop\studia\Jezyki i paradygmaty programowania\Laby\ProjectMatrixCalc"
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = "C:\Users\artur\Desktop\studia\Jezyki i paradygmaty programowania\Laby\MatrixCalculator\cmake-build-debug"
+CMAKE_BINARY_DIR = "C:\Users\artur\Desktop\studia\Jezyki i paradygmaty programowania\Laby\ProjectMatrixCalc\cmake-build-debug"
 
 # Utility rule file for MatrixCalculator_autogen.
 
@@ -73,8 +73,8 @@ CMAKE_BINARY_DIR = "C:\Users\artur\Desktop\studia\Jezyki i paradygmaty programow
 include CMakeFiles/MatrixCalculator_autogen.dir/progress.make
 
 CMakeFiles/MatrixCalculator_autogen:
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --blue --bold --progress-dir="C:\Users\artur\Desktop\studia\Jezyki i paradygmaty programowania\Laby\MatrixCalculator\cmake-build-debug\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_1) "Automatic MOC and UIC for target MatrixCalculator"
-	"C:\Program Files\JetBrains\CLion 2020.3\bin\cmake\win\bin\cmake.exe" -E cmake_autogen "C:/Users/artur/Desktop/studia/Jezyki i paradygmaty programowania/Laby/MatrixCalculator/cmake-build-debug/CMakeFiles/MatrixCalculator_autogen.dir/AutogenInfo.json" Debug
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --blue --bold --progress-dir="C:\Users\artur\Desktop\studia\Jezyki i paradygmaty programowania\Laby\ProjectMatrixCalc\cmake-build-debug\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_1) "Automatic MOC and UIC for target MatrixCalculator"
+	"C:\Program Files\JetBrains\CLion 2020.3\bin\cmake\win\bin\cmake.exe" -E cmake_autogen "C:/Users/artur/Desktop/studia/Jezyki i paradygmaty programowania/Laby/ProjectMatrixCalc/cmake-build-debug/CMakeFiles/MatrixCalculator_autogen.dir/AutogenInfo.json" Debug
 
 MatrixCalculator_autogen: CMakeFiles/MatrixCalculator_autogen
 MatrixCalculator_autogen: CMakeFiles/MatrixCalculator_autogen.dir/build.make
@@ -91,6 +91,6 @@ CMakeFiles/MatrixCalculator_autogen.dir/clean:
 .PHONY : CMakeFiles/MatrixCalculator_autogen.dir/clean
 
 CMakeFiles/MatrixCalculator_autogen.dir/depend:
-	$(CMAKE_COMMAND) -E cmake_depends "MinGW Makefiles" "C:\Users\artur\Desktop\studia\Jezyki i paradygmaty programowania\Laby\MatrixCalculator" "C:\Users\artur\Desktop\studia\Jezyki i paradygmaty programowania\Laby\MatrixCalculator" "C:\Users\artur\Desktop\studia\Jezyki i paradygmaty programowania\Laby\MatrixCalculator\cmake-build-debug" "C:\Users\artur\Desktop\studia\Jezyki i paradygmaty programowania\Laby\MatrixCalculator\cmake-build-debug" "C:\Users\artur\Desktop\studia\Jezyki i paradygmaty programowania\Laby\MatrixCalculator\cmake-build-debug\CMakeFiles\MatrixCalculator_autogen.dir\DependInfo.cmake" --color=$(COLOR)
+	$(CMAKE_COMMAND) -E cmake_depends "MinGW Makefiles" "C:\Users\artur\Desktop\studia\Jezyki i paradygmaty programowania\Laby\ProjectMatrixCalc" "C:\Users\artur\Desktop\studia\Jezyki i paradygmaty programowania\Laby\ProjectMatrixCalc" "C:\Users\artur\Desktop\studia\Jezyki i paradygmaty programowania\Laby\ProjectMatrixCalc\cmake-build-debug" "C:\Users\artur\Desktop\studia\Jezyki i paradygmaty programowania\Laby\ProjectMatrixCalc\cmake-build-debug" "C:\Users\artur\Desktop\studia\Jezyki i paradygmaty programowania\Laby\ProjectMatrixCalc\cmake-build-debug\CMakeFiles\MatrixCalculator_autogen.dir\DependInfo.cmake" --color=$(COLOR)
 .PHONY : CMakeFiles/MatrixCalculator_autogen.dir/depend
 

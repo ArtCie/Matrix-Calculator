@@ -150,7 +150,7 @@ double matrix::findDeterminate()
         ErrorNotSquared error;
         throw error;
     }
-    if(tempRows>10)
+    if(tempRows>8)
     {
         detTooBig error;
         throw error;

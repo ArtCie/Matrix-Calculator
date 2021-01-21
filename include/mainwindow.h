@@ -51,12 +51,12 @@ private slots:
 
 
 private:
-    void reshapeTable(int,QTableWidget *);
+    void static reshapeTable(int,QTableWidget *);
     void multiplyChosenMatrix(QTableWidget *);
-    void transposeChosenMatrix(QTableWidget *);
-    void fillTempMatrix(QTableWidget *, matrix *);
+    void static transposeChosenMatrix(QTableWidget *);
+    void static fillTempMatrix(QTableWidget *, matrix *);
     void changeLabels(std::string const&,std::string const&,std::string const&,std::string const&,std::string const&);
-    void fillResultTable(QTableWidget *,matrix *);
+    void static fillResultTable(QTableWidget *,matrix *);
     QTableWidget * checkWhich();
     QTableWidget *matrixA;
     QTableWidget *matrixB;
