@@ -1,2 +1,1 @@
-# ProjectMatrixCalc
-JiPP Project
+Matrix Calculator
